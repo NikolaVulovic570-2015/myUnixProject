@@ -4,7 +4,7 @@
 #Description	:User try to match number of files.
 #Args		:
 #Author		:Nikola Vulović
-#Email		:nkl.vulovic@gmail.com
+#Email		:nkl.vulovic96@gmail.com
 ################################################################################
 
 numberOfFiles=$(ls -l | wc -l)
